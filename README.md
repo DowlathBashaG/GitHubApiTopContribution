@@ -40,3 +40,8 @@ Further API's for reference :
    5. Based on top 50 , top 100 and top150. [ As per our requirement ].
 
  
+ 
+![contr_1](https://user-images.githubusercontent.com/9671419/86452399-e0c4c980-bd39-11ea-85e3-be1731bfe94a.PNG)
+
+
+![contri_2](https://user-images.githubusercontent.com/9671419/86452403-e1f5f680-bd39-11ea-846f-4026e63c44f8.PNG)
